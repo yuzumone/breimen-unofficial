@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BREIMEN</title>
-    <link>http://example.org/post/</link>
+    <link>https://yuzumone.github.io/breimen-unofficial/post/</link>
     <description>Recent content in Posts on BREIMEN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuzumone.github.io/breimen-unofficial/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BREIMEN 「ROOM🏠SESSIOONe - Nino - 」</title>
-      <link>http://example.org/post/2020-09-04-room-sessioone-nino/</link>
+      <link>https://yuzumone.github.io/breimen-unofficial/post/2020-09-04-room-sessioone-nino/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/post/2020-09-04-room-sessioone-nino/</guid>
+      <guid>https://yuzumone.github.io/breimen-unofficial/post/2020-09-04-room-sessioone-nino/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>BREIMEN 「noise」Official Music Video</title>
-      <link>http://example.org/post/2020-08-01-noise-music-video/</link>
+      <link>https://yuzumone.github.io/breimen-unofficial/post/2020-08-01-noise-music-video/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/post/2020-08-01-noise-music-video/</guid>
+      <guid>https://yuzumone.github.io/breimen-unofficial/post/2020-08-01-noise-music-video/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>矢野顕子×忌野清志郎 「ひとつだけ」 - Akiko Yano×Kiyoshiro Imawano 「Hitotsudake」(Cover)</title>
-      <link>http://example.org/post/2020-05-02-akikoyano-kiyoshiroiwamoto-hitotsudake/</link>
+      <link>https://yuzumone.github.io/breimen-unofficial/post/2020-05-02-akikoyano-kiyoshiroiwamoto-hitotsudake/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/post/2020-05-02-akikoyano-kiyoshiroiwamoto-hitotsudake/</guid>
+      <guid>https://yuzumone.github.io/breimen-unofficial/post/2020-05-02-akikoyano-kiyoshiroiwamoto-hitotsudake/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>BREIMEN 「PINK」「脱げぱんつ」LIVE @TITY RELEASE ONEMAN LIVE</title>
-      <link>http://example.org/post/2020-04-30-pink-nugepantsu/</link>
+      <link>https://yuzumone.github.io/breimen-unofficial/post/2020-04-30-pink-nugepantsu/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/post/2020-04-30-pink-nugepantsu/</guid>
+      <guid>https://yuzumone.github.io/breimen-unofficial/post/2020-04-30-pink-nugepantsu/</guid>
       <description>  </description>
     </item>
     
     <item>
       <title>BREIMEN 1stアルバム『TITY』</title>
-      <link>http://example.org/post/2019-12-31-tity/</link>
+      <link>https://yuzumone.github.io/breimen-unofficial/post/2019-12-31-tity/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0900</pubDate>
       
-      <guid>http://example.org/post/2019-12-31-tity/</guid>
+      <guid>https://yuzumone.github.io/breimen-unofficial/post/2019-12-31-tity/</guid>
       <description>  </description>
     </item>
     
