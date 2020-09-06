@@ -1,0 +1,13 @@
+baseURL: "https://yuzumone.github.io/breimen-unofficial/"
+publishDir: "docs"
+languageCode: "ja-jp"
+title: "BREIMEN"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+paginate: 6
+social:
+  twitter: "https://twitter.com/BREIMEN_JP"
+  instagram: "https://www.instagram.com/breimen_jp/"
+  youtube: "https://www.youtube.com/channel/UCcUJKt_BprjOvaAudfGBlLw"

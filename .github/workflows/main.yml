@@ -1,0 +1,25 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  deploy:
+    name: hugo deploy
+    runs-on: ubuntu-18.04
+
+    steps:
+    - uses: actions/checkout@master
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+    - name: Build
+      run: hugo -t novela --minify
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2.5.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
