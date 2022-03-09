@@ -1,12 +1,9 @@
-baseURL: "https://www.breimen.tk"
+baseURL: "https://yuzumone.github.io/breimen-unofficial"
 publishDir: "docs"
 languageCode: "ja-jp"
 title: "BREIMEN"
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-paginate: 6
+paginate: 10
+theme: "novela"
 social:
   twitter: "https://twitter.com/BREIMEN_JP"
   instagram: "https://www.instagram.com/breimen_jp/"
