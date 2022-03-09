@@ -4,17 +4,16 @@ let be = document.getElementsByTagName("BODY")[0];
 initColors();
 
 function initColors(){
-    makeDark();
-    // if (localStorage.getItem("isLight") === null) {
-    //     localStorage.setItem("isLight", 'true');
-    // }
+    if (localStorage.getItem("isLight") === null) {
+        localStorage.setItem("isLight", 'true');
+    }
 
-    // if (localStorage.getItem("isLight") === 'false'){
-    //     makeDark();
-    // }
-    // else{
-    //     makeLight();
-    // }
+    if (localStorage.getItem("isLight") === 'false'){
+        makeDark();
+    }
+    else{
+        makeLight();
+    }
 }
 
 
