@@ -1,7 +1,7 @@
 ---
 title: "ミュージックステーション 夏の２時間スペシャル"
 date: 2022-06-10T00:00:00+09:00
-hero: https://pbs.twimg.com/card_img/1531617155682164736/IX1jsNbR?format=jpg&name=small
+hero: https://pbs.twimg.com/media/FU5Pb3_UEAE-TmR?format=jpg&name=large
 draft: false
 ---
 
