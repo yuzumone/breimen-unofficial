@@ -9,3 +9,4 @@ draft: false
 {{< tweet user="BREIMEN_JP" id="1573145552514338817" >}}
 {{< tweet user="BREIMEN_JP" id="1573274787912491008" >}}
 {{< tweet user="barks_news" id="1573270800698081280" >}}
+{{< tweet user="BREIMEN_JP" id="1581920408059936768" >}}
