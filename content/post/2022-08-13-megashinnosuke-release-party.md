@@ -2,7 +2,7 @@
 title: "MEGASHINNOSUKE Release Party ハンサムな DANCE★SHOW."
 date: 2022-08-13T00:00:00+09:00
 hero: https://pbs.twimg.com/media/FWbsigUUsAEMtMN?format=png&name=900x900
-draft: true
+draft: false
 ---
 
 {{< tweet user="BREIMEN_JP" id="1542462960513290240" >}}
